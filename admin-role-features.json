@@ -1,1 +1,3 @@
-{ "featureCodes": "brmFull,qreFull,qreView,brmView" }
+{
+    "featureCodes": "SYSFC01,SYSFC02,SYSFC03,brmFull,brmView,qreFull,qreView,mdTPEPAView,RBACVIEW,mdTPCGSView,mdTPCDEXView,RBACEDIT"
+}
